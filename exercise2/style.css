@@ -1,0 +1,37 @@
+.div1 {
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+}
+.div2 {
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 125px;
+}
+.div3 {
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 125px;
+}
+.div4 {
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 125px;
+    left: 125px;
+}
+.div5 {
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 67px;
+    left: 67px;
+    transform: rotate(45deg);
+}
